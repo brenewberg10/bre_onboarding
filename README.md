@@ -127,7 +127,7 @@ Git allows us to facilitate changes between our local machine and a remote serve
 > **NOTE**  
 > `.` represents the current directory in Linux.  In the standard Ubuntu Shell/Terminal, this will be the path shown after the colon.
 
-- Fix thsi typo in the README.md file
+- Fix this typo in the README.md file
 - View your current changed files:
 ```bash
 git status
