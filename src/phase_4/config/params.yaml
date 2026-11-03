@@ -1,0 +1,22 @@
+localization_node:
+  ros__parameters:
+    datum_latitude: 45.61898065946136
+    datum_longitude: 9.28112698795041
+    datum_altitude: 176.10797824886478
+    fix_topic: /COM/fix
+    orientation_topic: /COM/compass
+
+planner_node:
+  ros__parameters:
+    csv_path: /home/bre/bre_onboarding/map/monza_mincurv.csv
+    datum_latitude: 45.61898065946136
+    datum_longitude: 9.28112698795041
+    path_length_m: 120.0
+    publish_rate_hz: 10.0
+    lvms_desired_speed: 25.0
+    max_desired_speed: 62.0
+
+vehicle_input_adapter:
+  ros__parameters:
+    steering_ratio: 15.015
+    max_steering_wheel_angle: 240.0
